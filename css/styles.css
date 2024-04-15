@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100vw;
+}
+
+.hcontain {
+    text-align: center;
+    margin-top: 8%;
+}
+
+.contenedor {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    margin: 5%;
+}
+
+.cards-container .card {
+    background-color: rgba(128, 128, 128, 0.192);
+    width: calc(100% / 4); 
+    margin: 1%; 
+    box-sizing: borde
+
+}
+
+
+
+
